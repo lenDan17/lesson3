@@ -1,0 +1,15 @@
+h1,h2,h3,h4{
+    color: rgb(175, 136, 212);
+}
+p span{
+    color: rgb(234, 11, 11);
+}
+.text-info li{
+    color: rgb(80, 53, 215);
+}
+.text-cosmetics ~ p {
+    color: green;
+}
+li a{
+    color: rgb(30, 199, 98);
+}
